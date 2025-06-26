@@ -5,6 +5,7 @@ This dataset provides a comprehensive overview of students’ academic journey, 
 Introduction
 This dataset provides a comprehensive overview of students’ academic journey, extracurricular involvement, and post-graduation outcomes. It captures key information such as personal demographics, academic performance across all semesters, participation in clubs, skill sets, internships, and placement records. With fields like GPA trends, backlogs, and placement domains, this dataset is ideal for analyzing factors that influence student success, employability, and alumni trajectories across different branches of study.
 
+
 Data Preparation Procedure
 Data Cleaning: Removed duplicates, filled missing values, and standardized formats (e.g., GPA to 2 decimal places).
 
@@ -17,11 +18,13 @@ Normalization: Scaled GPA and Attendance for uniform analysis.
 Validation: Ensured data accuracy and readiness for analysis.
 
 
+
 Industry Type
 
 Education Technology (EdTech) / Higher Education Analytics
 
 This dataset represents academic and behavioral information about university students, collected to improve student performance, retention, and support services.
+
 
 
 Stakeholders
@@ -45,6 +48,7 @@ Learning Management System Developers
 Government/Education Policy Makers
 
 
+
 Independent Variables
 
 Age
@@ -64,6 +68,7 @@ Skills
 Dependent Variable
 
 Average GPA
+
 
 
 Potential Questions
@@ -87,6 +92,7 @@ Are students with backlogs attending fewer classes on average?
 Is age associated with differences in GPA or backlogs?
 
 
+
 Potential Analyses
 
 These are data analyses you can conduct with this dataset:
@@ -108,6 +114,7 @@ Backlog frequency analysis by branch, gender, or club involvement.
 Skill set heatmap comparing frequency of skills among high vs. low GPA students.
 
 
+
 Observations
 
 Research-based internships are strongly associated with higher academic performance.
@@ -125,6 +132,7 @@ GPA remains consistent across ages, indicating age isn’t a strong performance 
 Some students (like Arjun) significantly outperform peers, suggesting high achievers could be role models or subjects for qualitative research.
 
 Clubs like Entrepreneurship Cell and Literary Society also show promising academic alignment.
+
 
 
 RECOMMENDATION
